@@ -16,7 +16,7 @@ int GCD(int aa, int bb)
 int main()
 {
 	int a, b;
-	cout << "Enter two no.'s:\n";
+	cout << "Enter two no:\n";
 	cin >> a >> b;
 	int gcd = GCD(a, b);
 	cout << "GCD of two no.'s is:\n";
