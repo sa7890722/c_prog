@@ -1,4 +1,4 @@
-//A program to find GCD of two numbers 
+//A program to find GCD of two numbers using the Euclidian algorithm 
 #include<bits/stdc++.h>
 using namespace std;
 int GCD(int aa,int bb)
